@@ -20,12 +20,14 @@
 
 <h3 align="center">📌 Uzmanlık Alanları & Neler Yapıyorum?</h3>
 
-#### 💻 Yazılım & Otomasyon
+<h4 align="center">💻 Yazılım & Otomasyon</h4>
+
 * ⚡ **Modern Backend & API Sistemleri:** Node.js, Express ve Fastify altyapılarıyla yüksek performanslı RESTful API'ler, servisler ve headless CMS (Strapi) mimarileri kurguluyorum.
 * 🤖 **Yapay Zekâ & Süreç Otomasyonu:** LLM/AI API entegrasyonları, otonom veri toplama (scraping) botları ve Python tabanlı iş akışı boru hatları geliştiriyorum.
 * 🔄 **Veri Entegrasyonları & Raporlama:** Periyodik SERP takibi, rakip analizi ve sistemler arası veri aktarımını özel scriptlerle otomatikleştiriyorum.
 
-#### 🔍 SEO & Büyüme Stratejisi
+<h4 align="center">🔍 SEO & Büyüme Stratejisi</h4>
+
 * ⚙️ **Teknik SEO & Web Performansı:** Altyapıları Core Web Vitals metrikleri, tarama bütçesi (crawl budget) ve semantik veri standartlarına göre optimize ederek maksimum sayfa hızı ve dizinleme kalitesi sağlıyorum.
 * 🎯 **Anahtar Kelime & Arama Niyeti Mimarisi:** Veri odaklı analizlerle yüksek dönüşüm getiren arama terimlerini modelliyor, stratejik büyüme haritaları çıkarıyorum.
 * ✍️ **Semantik İçerik Stratejisi:** Bilgi mimarisine ve arama motoru algoritmalarına tam uyumlu içerik kurguları üretiyorum.
