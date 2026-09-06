@@ -1,76 +1,56 @@
-<div align="center">
-
 # Merhaba, Ben Veysel Vas 👋
-### 🚀 SEO Uzmanı & Web Geliştirici
 
-<p align="center">
-  <a href="https://veyselvas.com.tr"><img src="https://img.shields.io/badge/Website-veyselvas.com.tr-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/veyselvas/"><img src="https://img.shields.io/badge/LinkedIn-Veysel_Vas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:veysivasvas@gmail.com"><img src="https://img.shields.io/badge/Email-veysivasvas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### 🚀 Yazılım Geliştirici & SEO Stratejisti | Software Developer & SEO Strategist
+
+Modern backend mimarileri, veri odaklı otomasyonlar ve yüksek performanslı web çözümleri geliştiriyorum. Yazılım geliştirme süreçlerimi teknik SEO, semantik bilgi mimarisi ve algoritma dinamikleriyle birleştirerek uçtan uca organik büyüme sağlayan ölçeklenebilir sistemler inşa ediyorum.
 
 ---
 
-<p align="center">
-  ⚡ <strong>Teknik SEO, Modern Web Mimarisi & Python Otomasyonları</strong><br>
-  <em>Arama motoru algoritmalarına tam uyumlu, Core Web Vitals ve performans odaklı web deneyimleri inşa ediyor; veri analitiği, Python botları ve API entegrasyonlarıyla organik görünürlüğü en üst seviyeye taşıyorum.</em>
-</p>
+### 📌 Uzmanlık Alanları & Neler Yapıyorum?
 
-</div>
+#### 💻 Yazılım & Otomasyon
+* ⚡ **Modern Backend & API Sistemleri:** Node.js, Express ve Fastify altyapılarıyla yüksek performanslı RESTful API'ler, servisler ve headless CMS (Strapi) mimarileri kurguluyorum.
+* 🤖 **Yapay Zekâ & Süreç Otomasyonu:** LLM/AI API entegrasyonları, otonom veri toplama (scraping) botları ve Python tabanlı iş akışı boru hatları geliştiriyorum.
+* 🔄 **Veri Entegrasyonları & Raporlama:** Periyodik SERP takibi, rakip analizi ve sistemler arası veri aktarımını özel scriptlerle otomatikleştiriyorum.
 
----
-
-### 📌 Hakkımda & Neler Yapıyorum?
-
-- ⚙️ **Teknik SEO & Performans:** Web sitelerinin altyapısını arama motoru botları ve Core Web Vitals metriklerine göre optimize ederek sayfa hızını ve indeksleme kalitesini artırıyorum.
-- 🤖 **Süreç & İş Otomasyonları:** Sıralama takibi, rakip analizi, veri aktarımı ve raporlama gibi periyodik manuel işleri Python botları ve API entegrasyonlarıyla otomatikleştiriyorum.
-- 🎯 **Anahtar Kelime & Rakip Analizi:** Veri odaklı analizlerle en yüksek dönüşüm getiren arama terimlerini belirliyor, stratejik büyüme haritaları çıkarıyorum.
-- ✍️ **İçerik Stratejisi & Bilgi Mimarisi:** Hedef kitleye ve semantik SEO kurallarına uygun içerik kurguları ile organik trafiği katlıyorum.
-- 🔗 **Backlink & Otorite Yönetimi:** Güvenilir ve otoriter kaynaklardan doğal geri bağlantı profili oluşturarak alan adı otoritesini yükseltiyorum.
-- 📍 **Yerel SEO & Harita Optimizasyonu:** Yerel arama sinyallerini ve harita görünürlüğünü güçlendirerek hedef bölgedeki kitleye erişimi kolaylaştırıyorum.
-- 💡 **SEO Danışmanlığı & Büyüme:** Web projelerinin teknik ve organik büyüme hedeflerine ulaşması için uçtan uca strateji ve danışmanlık sunuyorum.
+#### 🔍 SEO & Büyüme Stratejisi
+* ⚙️ **Teknik SEO & Web Performansı:** Altyapıları Core Web Vitals metrikleri, tarama bütçesi (crawl budget) ve semantik veri standartlarına göre optimize ederek maksimum sayfa hızı ve dizinleme kalitesi sağlıyorum.
+* 🎯 **Anahtar Kelime & Arama Niyeti Mimarisi:** Veri odaklı analizlerle yüksek dönüşüm getiren arama terimlerini modelliyor, stratejik büyüme haritaları çıkarıyorum.
+* ✍️ **Semantik İçerik Stratejisi:** Bilgi mimarisine ve arama motoru algoritmalarına tam uyumlu içerik kurguları üretiyorum.
+* 🔗 **Otorite, Yerel SEO & Danışmanlık:** Doğal backlink profili, harita görünürlüğü ve teknik denetim (audit) süreçleriyle markalara uçtan uca organik büyüme danışmanlığı sunuyorum.
 
 ---
 
-### 🛠️ Yetkinlikler & Araçlar
+### 🛠️ Teknolojiler & Araçlar
 
-#### 🔍 SEO, Veri & Otomasyon
+**Yazılım & Altyapı**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**SEO, Veri & Analiz**  
+![Google Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-0044FF?style=for-the-badge)
+![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![Screaming Frog](https://img.shields.io/badge/Screaming_Frog-2D8C3C?style=for-the-badge)
+
+---
+
+### 📊 GitHub İstatistikleri
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Teknik_SEO-0052CC?style=flat-square&logo=google&logoColor=white" alt="Teknik SEO" />
-  <img src="https://img.shields.io/badge/İş_Otomasyonları-3776AB?style=flat-square&logo=python&logoColor=white" alt="İş Otomasyonları" />
-  <img src="https://img.shields.io/badge/Anahtar_Kelime_Analizi-28A745?style=flat-square&logo=google-search-console&logoColor=white" alt="Anahtar Kelime Analizi" />
-  <img src="https://img.shields.io/badge/İçerik_Stratejisi-FF6C37?style=flat-square&logo=buffer&logoColor=white" alt="İçerik Stratejisi" />
-  <img src="https://img.shields.io/badge/Yerel_SEO-EA4335?style=flat-square&logo=google-maps&logoColor=white" alt="Yerel SEO" />
-  <img src="https://img.shields.io/badge/Backlink_Yönetimi-6F42C1?style=flat-square&logo=linkerd&logoColor=white" alt="Backlink Yönetimi" />
-  <img src="https://img.shields.io/badge/SEO_Danışmanlığı-17A2B8?style=flat-square&logo=target&logoColor=white" alt="SEO Danışmanlığı" />
-</p>
-
-#### 💻 Yazılım & Geliştirici Araçları
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,wordpress,git,github,vscode" alt="Tech Stack" />
-</p>
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=veyselvas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Veysel Vas GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=veyselvas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=veyselvas&theme=tokyonight&hide_border=true" alt="Veysel Vas Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=veyselvas&show_icons=true&theme=radical" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=veyselvas&layout=compact&theme=radical" alt="Kullanılan Diller" />
 </p>
 
 ---
 
 ### 📬 İletişim
 
-- 🌐 **Web Sitesi:** [veyselvas.com.tr](https://veyselvas.com.tr)
-- 💼 **LinkedIn:** [linkedin.com/in/veyselvas](https://www.linkedin.com/in/veyselvas/)
-- ✉️ **E-posta:** [veysivasvas@gmail.com](mailto:veysivasvas@gmail.com)
-
-<div align="center">
-  <sub>© Veysel Vas</sub>
-</div>
+* 🌐 **Web Sitesi:** [veyselvas.com.tr](https://veyselvas.com.tr)
+* 💼 **LinkedIn:** [linkedin.com/in/veyselvas](https://linkedin.com/in/veyselvas)
+* ✉️ **E-posta:** [veysivasvas@gmail.com](mailto:veysivasvas@gmail.com)
