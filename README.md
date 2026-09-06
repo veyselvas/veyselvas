@@ -55,8 +55,8 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=veyselvas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Veysel Vas GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=veyselvas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=veyselvas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Veysel Vas GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=veyselvas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
