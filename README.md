@@ -61,11 +61,11 @@
 <h3 align="center">📊 GitHub İstatistikleri & Katkı Özeti</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veyselvas&theme=radical" alt="GitHub Profil Özeti" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veyselvas&theme=radical&v=2" alt="GitHub Profil Özeti" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=veyselvas&theme=radical&hide_border=true" alt="Katkı Serisi" />
+  <img src="https://streak-stats.demolab.com/?user=veyselvas&theme=radical&hide_border=true&v=2" alt="Katkı Serisi" />
 </p>
 
 ---
