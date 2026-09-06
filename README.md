@@ -1,8 +1,20 @@
+<div align="center">
+
 # Merhaba, Ben Veysel Vas 👋
 
 ### 🚀 Yazılım Geliştirici & SEO Stratejisti | Software Developer & SEO Strategist
 
-Modern backend mimarileri, veri odaklı otomasyonlar ve yüksek performanslı web çözümleri geliştiriyorum. Yazılım geliştirme süreçlerimi teknik SEO, semantik bilgi mimarisi ve algoritma dinamikleriyle birleştirerek uçtan uca organik büyüme sağlayan ölçeklenebilir sistemler inşa ediyorum.
+<p align="center">
+  <a href="https://veyselvas.com.tr"><img src="https://img.shields.io/badge/Website-veyselvas.com.tr-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/veyselvas"><img src="https://img.shields.io/badge/LinkedIn-Veysel_Vas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:veysivasvas@gmail.com"><img src="https://img.shields.io/badge/Email-veysivasvas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <em>Modern backend mimarileri, veri odaklı otomasyonlar ve yüksek performanslı web çözümleri geliştiriyorum. Yazılım geliştirme süreçlerimi teknik SEO, semantik bilgi mimarisi ve algoritma dinamikleriyle birleştirerek uçtan uca organik büyüme sağlayan ölçeklenebilir sistemler inşa ediyorum.</em>
+</p>
+
+</div>
 
 ---
 
@@ -54,3 +66,7 @@ Modern backend mimarileri, veri odaklı otomasyonlar ve yüksek performanslı we
 * 🌐 **Web Sitesi:** [veyselvas.com.tr](https://veyselvas.com.tr)
 * 💼 **LinkedIn:** [linkedin.com/in/veyselvas](https://linkedin.com/in/veyselvas)
 * ✉️ **E-posta:** [veysivasvas@gmail.com](mailto:veysivasvas@gmail.com)
+
+<div align="center">
+  <sub>© Veysel Vas</sub>
+</div>
