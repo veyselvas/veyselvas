@@ -73,3 +73,4 @@
 <div align="center">
   <sub>© Veysel Vas · Yazılım Geliştirici & SEO Stratejisti</sub>
 </div>
+
