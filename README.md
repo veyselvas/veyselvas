@@ -58,23 +58,15 @@
 
 ---
 
-<h3 align="center">📊 GitHub İstatistikleri</h3>
+<h3 align="center">📊 GitHub İstatistikleri & Katkı Serisi</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=veyselvas&show_icons=true&theme=radical" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=veyselvas&layout=compact&theme=radical" alt="Kullanılan Diller" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=veyselvas&show_icons=true&theme=radical&count_private=true&hide_rank=true" alt="GitHub İstatistikleri" />
+  <img src="https://streak-stats.demolab.com/?user=veyselvas&theme=radical&hide_border=true" alt="Katkı Serisi" />
 </p>
 
 ---
 
-<h3 align="center">📬 İletişim</h3>
-
-<p align="center">
-  🌐 <strong>Web Sitesi:</strong> <a href="https://veyselvas.com.tr">veyselvas.com.tr</a> &nbsp;|&nbsp;
-  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/veyselvas">linkedin.com/in/veyselvas</a> &nbsp;|&nbsp;
-  ✉️ <strong>E-posta:</strong> <a href="mailto:veysivasvas@gmail.com">veysivasvas@gmail.com</a>
-</p>
-
 <div align="center">
-  <sub>© Veysel Vas</sub>
+  <sub>© Veysel Vas · Yazılım Geliştirici & SEO Stratejisti</sub>
 </div>
